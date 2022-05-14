@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBD93Z8SXdWJhOdUmu4cx7vgqkVxJoDzptj/MGw0zhg7/0C34I+5MJ53YfQHTN6i4eJ11Uj2JZi9OZ7ujgYsMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David Tocay\\Documents\\2022\\kinal\\net\\backend\\dev\\EntityFramework\\WebApiKalum\\WebApiKalum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David Tocay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\David Tocay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\David Tocay\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\David Tocay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\David Tocay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\David Tocay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
